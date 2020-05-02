@@ -1,15 +1,17 @@
 # 1700个程序猿英语词汇（含音标完整版）
-
+<div id="note1"  markdown="1">
 - **词性说明**
 
 词性|名词|动词|非及物动词|及物动词|连词|介词|代词|形容词|副词
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 缩写|n|v|vi|vt|conj|prep|pron|adj|adv 
 
+</div>
+
 - **单词列表**
 
-|Number|单词|词性.含义|音标|
-|:---:|:---:|:--------:|:---:|
+|NO|单词|词性.含义|音标|
+|:-:|:---|:-------- |:---|
 1|file|n.文件；v.保存文件|[faɪl]
 2|command|n.命令，指令|[kəˈmænd]
 3|use|v.使用，用途|[jus]
@@ -1705,3 +1707,19 @@
 1693|digital|a.数字的|[ˈdɪdʒɪtl]
 1694|combo|n.二进位组合码|[ˈkɑmboʊ]
 1695|cord|n.绳子，电线|[kɔrd]
+
+
+<style>
+table td {
+  white-space: nowrap;
+}
+#header_wrap .inner{
+padding:0px;
+}
+h1 {
+  display:none!important;
+}
+#note1 {
+ float:right;position:fixed; top:20px; right:8px;
+}
+</style>
